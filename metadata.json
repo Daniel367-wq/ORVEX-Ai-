@@ -1,0 +1,6 @@
+{
+  "name": "ORVEX AI",
+  "description": "Plataforma SaaS multi-tenant de Inteligência Comercial, Gestão Empresarial e Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
